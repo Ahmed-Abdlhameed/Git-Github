@@ -1,0 +1,4 @@
+#7 - Everything about git configrations: https://youtu.be/NWnWIpoFVyU?feature=shared
+#8 - Generate and test a public key: https://youtu.be/KhYK0cczeSY?feature=shared
+#9 - Create a repo from an existing project: https://youtu.be/usjh4jj7_nQ?feature=shared
+#10 - Learn pull request with real examples: https://youtu.be/n43bagVuJPU?feature=shared

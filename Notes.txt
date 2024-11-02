@@ -1,0 +1,153 @@
+>> Basic:
+
+λ git clone https://github.com/Ahmed-Abdlhameed/Repo-name.git
+- Used to clone the git repo to local.
+
+λ git status
+- Used to get the status of the current project.
+
+λ git commit -m "description"
+- Used to commit the changed files in staging area to the local repo with a description message (-m).
+
+λ git merge new
+- Used to merge the branch "new" with the branch you're currently in "usually master".
+
+--------------------------------------------------------------------
+>> Add , Remove, Restore, Reset and clean:
+
+λ git add file-name || file-names || * (for all files & directories)
+- Used to add the files to the staging area,
+  so if you added a file it will be staged for addition.
+
+λ git rm file-name || file-names || * (for all files & directories)
+- Used to completley remove the deleted files in the staging area,
+  so if you deleted a file it will be staged for removal just like add exactly but for removal.
+
+λ git restore file-name || file-names || * (for all files & directories)
+- Used to discard changes of the selected file/files or directory/directories in staging area
+  so if you made some changes like adding files or removing files it will be discarded as if you didn't
+  change anything.
+
+λ git restore --staged file-name || file-names || * (for all staged files & directories)
+- Used to remove the staged files from staging area back to untracked condition.
+
+λ git reset head file-name || file-names || * (for all files & directories)
+- Used to remove the staged files from staging area back to untracked condition.
+
+λ git clean -n
+- Used to list all the ready to delete files and directories in the staging area to make sure if there's
+  something you need to add or remove all with the next command.
+
+λ git clean -f
+- Used to force delete all the files and directories in the staging area. 
+
+--------------------------------------------------------------------
+>> Branching:
+
+λ git branch
+- Used to know the branches you have and there'll be a * on the branch you're currently working on
+  like * master.
+
+λ git remote -v
+- Used to know the remote repo you're currently working on.
+
+λ git branch new
+- Used to create a branch named new.
+
+λ git checkout new
+- Used to switch to the branch new.
+
+λ git chckout -b new
+- Used to create a branch named new and switch to it.
+
+λ git branch -m old
+- Used to rename the branch you're currently in with the name old.
+
+λ git branch -d new
+- Used to safely delete the branch named new and check if there's unsaved files before the delete.
+
+λ git branch -D new
+- Used to force delete the branch named new even if there's unsaved files.
+
+--------------------------------------------------------------------
+>> Push & Pull:
+
+λ git push remote-name branch-name
+- Used to push the changes to the remote repo.
+
+λ git pull remote-name
+- Used to pull changes from remote repo to local.
+
+--------------------------------------------------------------------
+>> Aliases:
+
+λ git config --global alias.st status
+- Used to set an alias "st" for the status command.
+
+λ git config --global alias.cm "commit -m"
+- Used to set an alias "cm" for the commit -m command.
+
+λ git config --global alias.st
+- Used to know what the alias st stand for.
+
+--------------------------------------------------------------------
+>> Stashing:
+
+λ git stash
+- Used to save the current on working files or changes in the staging area untill you need them.
+
+λ git stash save "message"
+- Used to save the current on working files or changes in the staging area untill you need them in
+  addition to a message to know which stash contains what exactly in case of exsiting of multiple stashes.
+
+λ git stash list
+- Used to know how many items you have in the stash.
+
+λ git stash pop
+- Used to pop the items in the latest stash to the staging area and get rid of the stash.
+
+λ git stash apply
+- Used to copy the items in the latest stash to the staging area but also leave them in stash.
+
+λ git stash show
+- Used to show the contents of the latest stash.
+
+λ git stash drop
+- Used to delete the latest stash with its contents.
+
+λ git stash clear
+- Used to delete all the stashes with their contents.
+
+λ git stash (pop || apply || show || drop ) stash@{id}
+- Used to handle a single stash based on its id. 
+
+> Note: 
+- Every time you add the files in the staging area to the stash it will be added to a different stash:
+  meaning that if you have some files in the staging area and you decided to stash them then lets say
+  they will be stashed in stash-0 for example but if you created some other files and added them to
+  the staging area then decided to stash them they will be stashed in stash-0 and the older files will
+  be stashed in stash-1.  
+
+--------------------------------------------------------------------
+>> Initialization from local to remote:
+
+λ git init
+- Used to initialize an empty git repo in the location you are in.
+
+λ git remote add origin git@github.com:Ahmed-Abdlhameed/Repo-name
+- Used to add the local changes to the remote
+
+λ git push -u origin master
+- Used to pull the remote changes then push the local changes to the remote.
+
+--------------------------------------------------------------------
+>> Resetting HEAD:
+
+λ git log:
+- Used to show the recent log of the current project and what branch exactly the HEAD is pointed at,
+  as the HEAD is always pointed to the last commit, to get out of the log press "Q" button.
+
+λ git reset --hard (desired commit hash not including the brackets)
+- Used to point the head to the desired commit and delete the previous commits returning
+  the project to the state it was before at this specefic desired commit,
+  after that use the command "git push repo-name branch-name --force" to update the branch. 
