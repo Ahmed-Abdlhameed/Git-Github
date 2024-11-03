@@ -3,3 +3,5 @@
 #9 - Create a repo from an existing project: https://youtu.be/usjh4jj7_nQ?feature=shared
 #10 - Learn pull request with real examples: https://youtu.be/n43bagVuJPU?feature=shared
 #17 - Ignoring files and directories: https://youtu.be/L8l89nUFggU?feature=shared
+#18 - Tagging and releasing part-1: https://youtu.be/29z-MTLpg0w?feature=shared
+#19 - Tagging and releasing part-2: https://youtu.be/hwui2N_DOfc?feature=shared
