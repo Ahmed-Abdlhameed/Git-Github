@@ -171,7 +171,7 @@
 - [node_modules/]: Used to ignore the directory named node_modules with all its contents.
 - [**/node*/]: Used to ignore all the directories that contain the word node.
 - [**/*node*]: Used to ignore all files and directories that contain the word node.
-- FOR MORE INFO JUST SEARCH "GIT IGNORE PATTERNT"
+- FOR MORE INFO JUST SEARCH "GIT IGNORE PATTERNS"
 
 λ git add -f txt.txt
 - Used to force add the file txt.txt even if it's ignored.
