@@ -2,3 +2,4 @@
 #8 - Generate and test a public key: https://youtu.be/KhYK0cczeSY?feature=shared
 #9 - Create a repo from an existing project: https://youtu.be/usjh4jj7_nQ?feature=shared
 #10 - Learn pull request with real examples: https://youtu.be/n43bagVuJPU?feature=shared
+# 17 - Ignoring files and directories: https://youtu.be/L8l89nUFggU?feature=shared
