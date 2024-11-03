@@ -151,3 +151,27 @@
 - Used to point the head to the desired commit and delete the previous commits returning
   the project to the state it was before at this specefic desired commit,
   after that use the command "git push repo-name branch-name --force" to update the branch. 
+
+--------------------------------------------------------------------
+>> Ignoring files and directories:
+
+λ touch .gitignore
+- Used to create the initial file which you will add the ignored files into.
+
+λ code .gitignore
+- Used to open the .gitignore file in the VS code editor.
+
+λ explorer .gitignore
+- Used to open the .gitignore file with explorer and then you choose the notepad to open it.
+
+> Written in the .gitignore file:
+- [*.log]: Used to ignore all the .log files.
+- [!VIP.log]: Used to exclude this specific file from all ignored .log files.
+- [Text.txt]: Used to ignore this specific file named Text.txt.
+- [node_modules/]: Used to ignore the directory named node_modules with all its contents.
+- [**/node*/]: Used to ignore all the directories that contain the word node.
+- [**/*node*]: Used to ignore all files and directories that contain the word node.
+- FOR MORE INFO JUST SEARCH "GIT IGNORE PATTERNT"
+
+λ git add -f txt.txt
+- Used to force add the file txt.txt even if it's ignored.
