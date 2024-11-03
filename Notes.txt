@@ -175,3 +175,31 @@
 
 λ git add -f txt.txt
 - Used to force add the file txt.txt even if it's ignored.
+
+--------------------------------------------------------------------
+>> Tagging and releasing:
+
+λ git tag v1.0
+- Used to create a tag named v1.0 and takes its message from the last commit and this tag is called "Lightweight tag".
+
+λ git tag -a v2.0 -m "Second version"
+- Used to create a tag named v2.0 and takes its message from you directly and this tag is called "Annotated tag".
+
+λ git tag -d v1.0
+- Used to delete the tag named v1.0 from local.
+
+λ git push origin --delete v1.0
+- Used to delete the tag named v1.0 from the repo after you delete it locally.
+
+λ git tag || λ git tag -l
+- Used to show the tags you have in your project.
+
+λ git push origin v1.0
+- Used to push the tag "v1.0" to the current repo.
+
+λ git tag -l "v1.*"
+- Used to search in all tags for any tag that contain the word "v1.".
+
+> NOTE: pushing tag to the repo comes after you push all your work to the repo as github will keep a copy of
+        all your files at this poing and save them in this tag so whenever you download this tag zip it'll
+        contain all the files of the project at this poing even if you have new files in your project.
