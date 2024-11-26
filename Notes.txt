@@ -153,7 +153,7 @@
   after that use the command "git push repo-name branch-name --force" to update the branch. 
 
 --------------------------------------------------------------------
->> Ignoring files and directories:
+>> Ignoring files & directories:
 
 λ touch .gitignore
 - Used to create the initial file which you will add the ignored files into.
@@ -177,7 +177,7 @@
 - Used to force add the file txt.txt even if it's ignored.
 
 --------------------------------------------------------------------
->> Tagging and releasing:
+>> Tagging & releasing:
 
 λ git tag v1.0
 - Used to create a tag named v1.0 and takes its message from the last commit and this tag is called "Lightweight tag".
