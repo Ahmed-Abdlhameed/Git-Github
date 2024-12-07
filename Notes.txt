@@ -57,7 +57,7 @@
 λ git checkout new
 - Used to switch to the branch new.
 
-λ git chckout -b new
+λ git checkout -b new
 - Used to create a branch named new and switch to it.
 
 λ git branch -m old
