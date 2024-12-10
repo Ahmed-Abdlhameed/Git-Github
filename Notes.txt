@@ -150,7 +150,7 @@
 λ git reset --hard (desired commit hash not including the brackets)
 - Used to point the head to the desired commit and delete the previous commits returning
   the project to the state it was before at this specefic desired commit,
-  after that use the command "git push repo-name branch-name --force" to update the branch. 
+  after that use the command "git push remote-name branch-name --force" to update the branch. 
 
 --------------------------------------------------------------------
 >> Ignoring files & directories:
