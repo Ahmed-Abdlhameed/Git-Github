@@ -7,7 +7,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 ## Table of Contents
 
 1. [Git Diagram](#git-diagram)
-2. [Notes](#notes)
+2. [Commands](#commands)
 3. [Writing on GitHub](#writing-on-github)
 4. [Important Topics](#important-topics)
 
@@ -20,10 +20,10 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Notes
+## Commands
 
-- **Purpose**: The Notes.txt file provide a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
-- ![View the file](Notes.txt)
+- **Purpose**: The Commands.txt file provides a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
+- ![View the file](Commands.txt)
 
 ---
 
