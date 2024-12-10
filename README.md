@@ -6,24 +6,25 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ## Table of Contents
 
-1. [Git Diagram](#git-diagram)
-2. [Commands](#commands)
+1. [Git diagram](#git-diagram)
+2. [Git commands](#commands)
 3. [Writing on GitHub](#writing-on-github)
-4. [Important Topics](#important-topics)
+4. [Additional topics](#additional-topics)
 
 ---
 
-## Git Diagram
+## Git diagram
 
 - **Purpose**: This image explains the structure of Git and its workflow, including the working directory, staging area, local repository, and remote repository.
+  
   ![View the image](Git%20diagram.PNG)
 
 ---
 
-## Commands
+## Git commands
 
-- **Purpose**: The Commands.txt file provides a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
-- ![View the file](Commands.txt)
+- **Purpose**: The Git commands.txt file provides a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
+- ![View the file](Git%20commands.txt)
 
 ---
 
@@ -34,7 +35,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Important Topics
+## Additional Topics
 
 - **#07: Everything about git configurations.**  
    [Video Tutorial](https://youtu.be/NWnWIpoFVyU)
