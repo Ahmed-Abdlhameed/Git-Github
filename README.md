@@ -1,6 +1,6 @@
 # Summary of Git & Github topics, commands & notes:
 
-This repository contains a collection of topics, commands & notes to enhance understanding of Git and GitHub
+This repository contains a collection of topics, commands & notes to enhance understanding of Git and GitHub.
 
 ---
 
