@@ -23,7 +23,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ## Git commands
 
-- **Purpose**: The Git commands.txt file provides a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
+- **Purpose**: This file provides a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
 - ![View the file](Git%20commands.txt)
 
 ---
