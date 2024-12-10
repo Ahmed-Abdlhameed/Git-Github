@@ -7,7 +7,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 ## Table of Contents
 
 1. [Git diagram](#git-diagram)
-2. [Git commands](#commands)
+2. [Git commands](#git-commands)
 3. [Writing on GitHub](#writing-on-github)
 4. [Additional topics](#additional-topics)
 
