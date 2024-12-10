@@ -15,7 +15,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ## Git diagram
 
-- **Purpose**: This image explains the structure of Git and its workflow, including the working directory, staging area, local repository, and remote repository.
+**Purpose**: This image explains the structure of Git and its workflow, including the working directory, staging area, local repository, and remote repository.
   
   ![View the image](Git%20diagram.PNG)
 
@@ -24,14 +24,17 @@ This repository contains a collection of topics, commands & notes to enhance und
 ## Git commands
 
 - **Purpose**: This file provides a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
-- ![View the file](Git%20commands.txt)
+
+    ![View the file](Git%20commands.txt)
 
 ---
 
 ## Writing on GitHub
 
-- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Working with advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
+- **Purpose**: These Github pages provides a guideline on how to write and format the README.md file on Github.
+
+  - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  - [Working with advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 
 ---
 
