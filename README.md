@@ -16,14 +16,14 @@ This repository contains a collection of topics, commands & notes to enhance und
 ## Git Diagram
 
 - **Purpose**: This image explains the structure of Git and its workflow, including the working directory, staging area, local repository, and remote repository.
-- ![View the image](Git%20diagram.PNG)
+  ![View the image](Git%20diagram.PNG)
 
 ---
 
 ## Notes
 
 - **Purpose**: The Notes.txt file provide a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
-- ![View the file](notes.txt)
+- ![View the file](Notes.txt)
 
 ---
 
