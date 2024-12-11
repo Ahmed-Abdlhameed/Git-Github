@@ -41,7 +41,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Additional Topics
+## Additional topics
 
 - **#07: Everything about git configurations.**  
    [Video Tutorial](https://youtu.be/NWnWIpoFVyU)
