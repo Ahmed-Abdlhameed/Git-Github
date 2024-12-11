@@ -4,13 +4,13 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Table of Contents
+## Table of contents
 
 1. [Git diagram](#git-diagram)
 2. [Git commands](#git-commands)
 3. [Writing on GitHub](#writing-on-github)
 4. [Additional topics](#additional-topics)
-5. [How to Use](#how-to-use)
+5. [How to use](#how-to-use)
 6. [Contributions](#contributions)
 7. [License](#license)
 
@@ -66,7 +66,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## How to Use
+## How to use
 
 Navigate to the appropriate file to review its content.
 
