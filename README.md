@@ -20,7 +20,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 **Purpose**: This image explains the structure of Git and its workflow, including the working directory, staging area, local repository, and remote repository.
   
-  ![View Image](Git%20diagram.PNG)
+  ![View Image](Git%20Diagram.PNG)
 
 ---
 
