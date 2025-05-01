@@ -15,7 +15,8 @@
 --------------------------------------------------------------------
 >> Add , Remove, Restore, Reset and clean:
 
-λ git add file-name || file-names || * (for all files & directories)
+λ git add file-name || file-names || * (for all files & directories) 
+|| . (for all changed or added files & directories or subdirectories)
 - Used to add the files to the staging area,
   so if you added a file it will be staged for addition.
 
