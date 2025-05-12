@@ -1,20 +1,20 @@
-#07: Everything about git configrations.
+#07: Everything About Git Configrations.
 >>>: https://youtu.be/NWnWIpoFVyU
 
-#08: Generate and test a public key.
+#08: Generate And Test A Public Key.
 >>>: https://youtu.be/KhYK0cczeSY
 
-#09: Create a repo from an existing project.
+#09: Create A Repo From An Existing Project.
 >>>: https://youtu.be/usjh4jj7_nQ
 
-#10: Learn pull request with real examples.
+#10: Learn Pull Request With Real Examples.
 >>>: https://youtu.be/n43bagVuJPU
 
-#17: Ignoring files and directories.
+#17: Ignoring Files & Directories.
 >>>: https://youtu.be/L8l89nUFggU
 
-#18: Tagging and releasing part-1.
+#18: Tagging & Releasing Part-1.
 >>>: https://youtu.be/29z-MTLpg0w
 
-#19: Tagging and releasing part-2.
+#19: Tagging & Releasing Part-2.
 >>>: https://youtu.be/hwui2N_DOfc
