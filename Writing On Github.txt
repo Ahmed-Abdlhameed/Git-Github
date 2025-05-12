@@ -1,5 +1,5 @@
-- Basic writing and formatting syntax:
+- Basic Writing & Formatting Syntax:
 > https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-- Working with advanced formatting:
+- Working With Advanced Formatting:
 > https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting
