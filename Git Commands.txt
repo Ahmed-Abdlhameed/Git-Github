@@ -13,7 +13,7 @@
 - Used to merge the branch "new" with the branch you're currently in "usually master".
 
 --------------------------------------------------------------------
->> Add , Remove, Restore, Reset and clean:
+>> Add , Remove, Restore, Reset & Clean:
 
 λ git add file-name || file-names || * (for all files & directories) 
 || . (for all changed or added files & directories or subdirectories)
@@ -130,7 +130,7 @@
   be stashed in stash-1.  
 
 --------------------------------------------------------------------
->> Initialization from local to remote:
+>> Initialization From Local To Remote:
 
 λ git init
 - Used to initialize an empty git repo in the location you are in.
@@ -154,7 +154,7 @@
   after that use the command "git push remote-name branch-name --force" to update the branch. 
 
 --------------------------------------------------------------------
->> Ignoring files & directories:
+>> Ignoring files & Directories:
 
 λ touch .gitignore
 - Used to create the initial file which you will add the ignored files into.
@@ -178,7 +178,7 @@
 - Used to force add the file txt.txt even if it's ignored.
 
 --------------------------------------------------------------------
->> Tagging & releasing:
+>> Tagging & Releasing:
 
 λ git tag v1.0
 - Used to create a tag named v1.0 and takes its message from the last commit and this tag is called "Lightweight tag".
@@ -201,6 +201,6 @@
 λ git tag -l "v1.*"
 - Used to search in all tags for any tag that contain the word "v1.".
 
-> NOTE: pushing tag to the repo comes after you push all your work to the repo as github will keep a copy of
+> NOTE: Pushing tag to the repo comes after you push all your work to the repo as github will keep a copy of
         all your files at this poing and save them in this tag so whenever you download this tag zip it'll
         contain all the files of the project at this poing even if you have new files in your project.
