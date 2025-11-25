@@ -4,7 +4,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Contents Table
+## Table of Contents
 
 1. [Git Diagram](#git-diagram)
 2. [Git Commands](#git-commands)
