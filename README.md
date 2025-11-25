@@ -8,9 +8,9 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 1. [Git Diagram](#git-diagram)
 2. [Git Commands](#git-commands)
-3. [Writing On Github](#writing-on-github)
+3. [Writing on Github](#writing-on-github)
 4. [Additional Topics](#additional-topics)
-5. [How To Use](#how-to-use)
+5. [How to Use](#how-to-use)
 6. [Contributions](#contributions)
 7. [License](#license)
 
