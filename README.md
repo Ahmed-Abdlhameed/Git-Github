@@ -1,10 +1,10 @@
-# Summary Of Git & Github Topics, Commands & Notes:
+# Summary of Git & Github Topics, Commands & Notes:
 
 This repository contains a collection of topics, commands & notes to enhance understanding of Git and GitHub.
 
 ---
 
-## Table Of Contents
+## Contents Table
 
 1. [Git Diagram](#git-diagram)
 2. [Git Commands](#git-commands)
@@ -32,7 +32,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Writing On Github
+## Writing on Github
 
 - **Purpose**: These Github pages provides a guideline on how to write and format the README.md file on Github.
 
@@ -66,7 +66,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## How To Use
+## How to Use
 
 Navigate to the appropriate file to review its content.
 
