@@ -28,7 +28,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 - **Purpose**: This file provides a deep dive into Git commands and operations. Each section includes commands for basic operations, adding/removing files, branching, pushing & pulling, stashing, aliasing, and resetting.
 
-    ![View File](Git%20commands.txt)
+    ![View File](Git%20Commands.txt)
 
 ---
 
