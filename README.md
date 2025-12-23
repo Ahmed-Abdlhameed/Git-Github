@@ -1,4 +1,4 @@
-# Summary of Git & Github Topics, Commands & Notes:
+# Summary of Git & GitHub Topics, Commands & Notes:
 
 This repository contains a collection of topics, commands & notes to enhance understanding of Git and GitHub.
 
@@ -8,7 +8,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 1. [Git Diagram](#git-diagram)
 2. [Git Commands](#git-commands)
-3. [Writing on Github](#writing-on-github)
+3. [Writing on GitHub](#writing-on-github)
 4. [Additional Topics](#additional-topics)
 5. [How to Use](#how-to-use)
 6. [Contributions](#contributions)
@@ -32,9 +32,9 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Writing on Github
+## Writing on GitHub
 
-- **Purpose**: These Github pages provides a guideline on how to write and format the README.md file on Github.
+- **Purpose**: These GitHub pages provides a guideline on how to write and format the README.md file on GitHub.
 
   - [Basic Writing & Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   - [Working With Advanced Formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
